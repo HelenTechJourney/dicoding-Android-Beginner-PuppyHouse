@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">Puppy House</string>
+
+    <string name="puppies_name">Nama Anjing</string>
+    <string name="description">Deskripsi</string>
+    <string name="puppies_height">Data Tinggi</string>
+    <string name="puppies_weight">Data Berat</string>
+    <string name="life_expectancy">Data Harapan</string>
+    <string name="list">List</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="judul_nama">Helen Dharani Jiffri</string>
+    <string name="isi_email">a369dsy2040@bangkit.academy</string>
+    <string name="tinggi_badan">Tinggi Badan :</string>
+    <string name="berat_badan">Berat Badan :</string>
+    <string name="harapan_hidup">Harapan Hidup :</string>
+    <string name="puppies_behavior"> Data Perilaku</string>
+    <string name="jenis">Harapan Hidup :</string>
+    <string name="profile">Profile</string>
+
+    <string-array name="data_name">
+        <item>Akita Inu</item>
+        <item>Bichon Frisé</item>
+        <item>Borzoi</item>
+        <item>Chow Chow</item>
+        <item>Dalmatian</item>
+        <item>German Shepherd</item>
+        <item>Lhasa Apso</item>
+        <item>Pomeranian</item>
+        <item>Rottweiler</item>
+        <item>Siberian Husky</item>
+        <item>Yorkshire Terrier</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Akita Inu merupakan salah satu ras asli Jepang tertua. Pada awalnya, anjing akita inu digunakan untuk membantu manusia berburu. Namun saat ini, anjing akita inu lebih sering dijadikan sebagai hewan peliharaan di rumah. Salah satu anjing akita inu yang terkenal di Jepang adalah Hachiko. Bahkan, sampai dijadikan sebuah patung di Jepang. </item>
+        <item>Bichon Frisé adalah ras anjing kecil berbulu putih halus yang berasal dari Pulau Malta, Spanyol. Setelah Perang Dunia I, Prancis menyelamatkan populasi ras anjing ini dan memberi nama \"Bichon berbulu keriting\" atau Bichon a Poil Frise. Sejarahnya nama Bichon berasal dari kata barbichon. Bar merupakan singkatan dari barbet.</item>
+        <item>Borzoi atau sering disebut Russian Wolfhound adalah ras anjing hasil persilangan Greyhound Arab dan anjing gembala Rusia yang berbulu panjang. Asal daerah dari anjing ini belum diketahui secara pasti, namun diperkirakan berasal dari Rusia, Persia, atau Tibet. Anjing ini memiliki bulu yang hangat, lembut, dan lebat untuk beradaptasi di lingkungan bersuhu dingin.</item>
+        <item>Chow Chow adalah salah satu ras anjing tertua di dunia yang berasal dari Tiongkok. Ciri-ciri utama dari anjing ini adalah bulunya tebal dan lembut, mulut dan lidah berwarna hitam, serta kaki belakang yang tidak bengkok sehingga membuat anjing ini berlari dengan kaku. Anjing ini memiliki penampakan fisik yang mirip seperti singa kecil atau beruang.</item>
+        <item>Dalmatian adalah ras kuno, berasal dari tahun 2000 SM ketika anjing tutul muncul di dinding dan tablet Yunani, menunjukkan mereka bekerja dengan kereta Yunani kuno, Roma dan Mesir. Beberapa catatan awal ras ini ditemukan di Dalmatia, Yugoslavia, dari mana nama itu berasal. Dalmatians telah digunakan sebagai anjing perang, patroli perbatasan, penarik gerobak, penggembala domba, anjing pemburu, pemain sirkus dan, tentu saja, melatih anjing. Apapun asalnya, Dalmatians telah bekerja dengan kuda setidaknya sejak Abad Pertengahan.</item>
+        <item>Anjing German Shepherd, seperti namanya, adalah jenis anjing yang berasal dari Jerman. Mereka dikembangkan mulai akhir 1800-an dengan mengawinkan berbagai ras anjing penggembala. Di Inggris, anjing-anjing tersebut dikenal sebagai Alsatian karena para peternaknya ingin melindungi anjing ini dari sentimen anti-Jerman setelah Perang Dunia I.</item>
+        <item>Lhasa Apso (lha-saw op-so) adalah jenis anjing yang berasal dari Tibet. Lhasa Apso pada awalnya dibiakkan untuk menjaga biara dengan memberi tahu para biksu tentang adanya penyusup yang akan memasuki biara. Anjing ini mempunyai kepala tampak bulat dengan bulu tebal dan panjang yang menjadi ciri khasnya.</item>
+        <item>Pomeranian adalah anjing ras mini dari anggota keluarga Spitz, yang meliputi Samoyed, Norwegian elkhound, dan Alaskan malamute. Anjing ini pertama kali dibiakkan di Pomeranian, Jerman, tempat di mana nama mereka diambil. Penampilan anjing ini mudah dikenali dari bulunya yang halus dan tebal, terlebih di bagian leher, wajahnya yang mirip rubah, bentuk telinga yang tajam dan waspada, serta moncong yang lucu.</item>
+        <item>Anjing Rottweiler (Rotties) adalah anjing besar yang dikenal karena rambut hitam pekatnya dengan tanda warna karat yang jelas. Mereka adalah anjing yang kuat untuk ukuran mereka. Nenek moyang Rottweiler bisa jadi adalah anjing yang digunakan oleh legiun Romawi untuk mengemudi dan menjaga ternak mereka saat mereka melintasi Pegunungan Alpen.</item>
+        <item>Siberian Husky adalah anjing Arktik yang dibiakkan untuk menarik kereta luncur dan mengembalakan rusa kutub.Selain itu, anjing Siberian Husky mempunyai mata biru yang tajam atau multiwarna dan wajah yang mencolok, bahkan seram, yang menambah daya tarik anjing Siberian Husky. Tak heran, penampilan Siberian Husky ini sering kali membuatnya disebut mirip serigala.</item>
+        <item>Yorkshire Terrier (Yorkies) merupakan seekor anjing kecil dari tipe terrier, dikembangbiakkan sejak abad ke-19 di area bersejarah kota Yorkshire, Inggris untuk menangkap tikus di pabrik kain. Pada abad ke-19, pekerja dari Skotlandia datang ke Yorkshire untuk mencari pekerjaan dan mereka membawa beberapa jenis terrier bersama mereka. Pembiakkan Yorkshire Terrier sendiri di sukseskan oleh orang-orang-yang berkerja di pabrik kapas dan pembuatan pakaian wol-di Negara Yorkshire dan Lancashire.</item>
+    </string-array>
+
+    <string-array name="data_height">
+        <item>63–69 cm (jantan), 57–63 cm (betina)</item>
+        <item>24–27 cm</item>
+        <item>71 cm ke atas (jantan), 66 cm ke atas (betina)</item>
+        <item>43–50 cm</item>
+        <item>48–60 cm</item>
+        <item>60–66 cm (jantan), 55–60 cm (betina)</item>
+        <item>25–28 cm</item>
+        <item>15–17 cm</item>
+        <item>60–68 cm (jantan), 55–63 cm (betina)</item>
+        <item>53–59 cm (jantan), 50–55 cm (betina)</item>
+        <item>17–20 cm</item>
+    </string-array>
+
+    <string-array name="data_weight">
+        <item>29–34 kg (jantan), 24–29 kg (betina)</item>
+        <item>5–8 kg</item>
+        <item>34–47 kg (jantan), 27–38 kg (betina)</item>
+        <item>20–31 kg</item>
+        <item>20–31 kg</item>
+        <item>29–40 kg (jantan), 22–31 kg (betina)</item>
+        <item>5–8 kg</item>
+        <item>1–3 kg</item>
+        <item>43–61 kg (jantan), 36–45 kg (betina)</item>
+        <item>20–27 kg (jantan), 15–22 kg (betina)</item>
+        <item>3.17 kg</item>
+    </string-array>
+
+    <string-array name="data_life">
+        <item>10–12 tahun</item>
+        <item>14–15 tahun</item>
+        <item>9–14 tahun</item>
+        <item>8–12 tahun</item>
+        <item>11–13 tahun</item>
+        <item>7–10 tahun</item>
+        <item>12–15 tahun</item>
+        <item>12–16 tahun</item>
+        <item>9–10 tahun</item>
+        <item>12–14 tahun</item>
+        <item>11–15 tahun</item>
+    </string-array>
+
+    <string-array name="data_behavior">
+        <item>bermartabat / waspada / penyendiri</item>
+        <item>ingin tahu / ceria/ penuh semangat</item>
+        <item>setia / penyayang / bermartabat agung</item>
+        <item>bermartabat / cerdas / berpikiran serius</item>
+        <item>bermartabat / terbuka / pintar</item>
+        <item>berani / percaya diri / pintar</item>
+        <item>percaya diri / pintar / lucu</item>
+        <item>ingin tahu / lincah / berani</item>
+        <item>setia / penyayang / percaya diri</item>
+        <item>setia / terbuka / usil</item>
+        <item>penyayang / lincah / mandiri</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/akita_inu</item>
+        <item>@drawable/bichon_frise</item>
+        <item>@drawable/borzoi</item>
+        <item>@drawable/chow_chow</item>
+        <item>@drawable/dalmatian</item>
+        <item>@drawable/german_shepherd</item>
+        <item>@drawable/lhasa_apso</item>
+        <item>@drawable/pomeranian</item>
+        <item>@drawable/rottweiler</item>
+        <item>@drawable/siberian_husky</item>
+        <item>@drawable/yorkshire_terrier</item>
+    </integer-array>
+
+    <!--    <string name="behavior">Jenis Pet </string>-->
+    <!--    <string name="isi_behavior">Pet House</string>-->
+</resources>
